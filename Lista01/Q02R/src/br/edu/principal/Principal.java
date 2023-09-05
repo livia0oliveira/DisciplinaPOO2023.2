@@ -20,7 +20,7 @@ public class Principal {
     num3=scan.nextDouble();
 
 
-    média = num1 + num2 + num3 / 3;
+    média = (num1 + num2 + num3) / 3;
 
 
     System.out.println("A sua média é de "+média);
